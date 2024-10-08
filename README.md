@@ -37,18 +37,18 @@
    git clone https://github.com/guru936/SyncAnalytica.git
    cd SyncAnalytica
    
-### **Install backend dependencies:**
+2. **Install backend dependencies:**
     ```bash
 
     pip install -r requirements.txt
 
-### **Install frontend dependencies:***
+3. **Install frontend dependencies:***
     ```bash
 
     cd frontend
     npm install
 
-### **Run the Application**
+4. **Run the Application**
 
    1. **Start the backend (Streamlit & Flask):**
     ```bash
@@ -56,7 +56,7 @@
     cd backend
     streamlit run app.py
 
-**Run the frontend (React):**
+  2. **Run the frontend (React):**
     ```bash
 
     cd frontend
@@ -89,4 +89,4 @@ Steps to Contribute:
 
 ### **License**
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the [License](https://opensource.org/licenses/MIT) - see the LICENSE file for details.
